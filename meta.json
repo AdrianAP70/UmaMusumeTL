@@ -2,11 +2,11 @@
     {
         "name": "Server 1",
         "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/release/index.json",
-        "short_desc": "Translates all parts, lore & accuracy focus. Terms might change sometimes and not match community. Source: Original, GameTora, Community. Contributors: noccu (+ maintainer), LotoDS, CatNipHoarder + Holo, Chiwawa, Kasey, … (tinyurl.com/UmaTLCredits)"
+        "short_desc": "Translates all parts."
     },
     {
         "name": "Server 0.5 (Skill only)",
         "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en-sd/release/index.json",
-        "short_desc": "UmaTL, but replaces skill descriptions with a readable version of internal game data. Source: UmaTL (tinyurl.com/UmaTLCredits). Contributors: noccu"
+        "short_desc": "Only Translates Skill set."
     }
 ]
